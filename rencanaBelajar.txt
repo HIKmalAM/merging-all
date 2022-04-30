@@ -3,13 +3,13 @@ belajar beberapa bahasa pemograman
   * Java, Framworknya :
   * Native PHP, Framworknya :
     --> Laravel
-  * Native Javascript, Framworknya :
-   --> Nodejs
-   --> Reactjs
-   --> Nextjs
-   --> VueJs
+  * Native Javascript, framworknya :
+   --> Nodejs * nice 1
+   --> Reactjs * nice 2
+   --> Nextjs * nice 3
+   --> VueJs 
    --> AngularJs
   * phyton
-  * c
+  * all C : C, C++, C#
   * flutter
   * CSS
