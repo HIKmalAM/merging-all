@@ -1,7 +1,7 @@
 Master
 belajar beberapa bahasa pemograman
-  * java
-  * Native PHP, framworknya :
+  * Java, Framworknya :
+  * Native PHP, Framworknya :
     --> Laravel
   * Native Javascript, framworknya :
    --> Nodejs * nice 1
@@ -10,5 +10,6 @@ belajar beberapa bahasa pemograman
    --> VueJs 
    --> AngularJs
   * phyton
-  * c
-  * all native C
+  * all C : C, C++, C#
+  * flutter
+  * CSS
